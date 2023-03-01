@@ -1,8 +1,8 @@
-# CCNU 测试在线编辑
+# A组
 
 代码仓库地址: https://github.com/ccnu-lab/ccnu-lab.github.io.git
 
-## 首次启动
+## 张三
 
 copy .env.shadow parameters to .env and fill all required envs
 
@@ -18,8 +18,7 @@ step2:
  yarn start
 ```
 
-## 项目访问地址
-
+## 李四
 - 本地环境地址：http://localhost:5173
 - 正式环境：https://ccnu-lab.github.io/
 
