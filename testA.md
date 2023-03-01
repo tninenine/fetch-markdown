@@ -1,4 +1,4 @@
-# CCNU-LAB
+# CCNU 测试在线编辑
 
 代码仓库地址: https://github.com/ccnu-lab/ccnu-lab.github.io.git
 
